@@ -1,0 +1,95 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/epg.xml"
+
+############################
+# 📍 CÓRDOBA
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/canal-doce-cordoba.png" group-title="Córdoba",Canal Doce Córdoba
+https://iptv-org.github.io/channels/ar/CanalDoceCordoba.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/telefe-cordoba.png" group-title="Córdoba",Telefe Córdoba
+https://iptv-org.github.io/channels/ar/TelefeCordoba.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/canal-10-cordoba.png" group-title="Córdoba",Canal 10 Córdoba
+https://iptv-org.github.io/channels/ar/Canal10Cordoba.m3u8
+
+
+############################
+# 🇦🇷 CANALES NACIONALES
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/el-trece.png" group-title="Nacionales",El Trece
+https://iptv-org.github.io/channels/ar/ElTrece.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/telefe.png" group-title="Nacionales",Telefe
+https://iptv-org.github.io/channels/ar/Telefe.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/canal-26.png" group-title="Noticias",Canal 26
+https://iptv-org.github.io/channels/ar/Canal26.m3u8
+
+
+############################
+# 📰 NOTICIAS
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/c5n.png" group-title="Noticias",C5N
+https://iptv-org.github.io/channels/ar/C5N.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/tn.png" group-title="Noticias",TN
+https://iptv-org.github.io/channels/ar/TN.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/la-nacion-mas.png" group-title="Noticias",La Nación +
+https://iptv-org.github.io/channels/ar/LaNacionMas.m3u8
+
+
+############################
+# 🎬 PELÍCULAS / PREMIUM
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/hbo.png" group-title="Películas",HBO Latinoamérica
+https://iptv-org.github.io/channels/us/HBOLatinAmerica.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/cinemax.png" group-title="Películas",Cinemax
+https://iptv-org.github.io/channels/us/Cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/cinecanal.png" group-title="Películas",Cinecanal
+https://iptv-org.github.io/channels/us/Cinecanal.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/mx/golden.png" group-title="Películas",Golden
+https://iptv-org.github.io/channels/mx/Golden.m3u8
+
+
+############################
+# 📺 SERIES / ENTRETENIMIENTO
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/star-channel.png" group-title="Series",Star Channel
+https://iptv-org.github.io/channels/us/StarChannelLatinAmerica.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/axn.png" group-title="Series",AXN
+https://iptv-org.github.io/channels/us/AXNLatinAmerica.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/sony-channel.png" group-title="Series",Sony Channel
+https://iptv-org.github.io/channels/mx/SonyChannel.m3u8
+
+
+############################
+# 📚 DOCUMENTALES
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/discovery-channel.png" group-title="Documentales",Discovery Channel
+https://iptv-org.github.io/channels/us/DiscoveryChannelLatinAmerica.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/national-geographic.png" group-title="Documentales",National Geographic
+https://iptv-org.github.io/channels/us/NationalGeographicLatinAmerica.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/animal-planet.png" group-title="Documentales",Animal Planet
+https://iptv-org.github.io/channels/us/AnimalPlanetLatinAmerica.m3u8
+
+
+############################
+# 🏟️ DEPORTES
+############################
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/us/espn.png" group-title="Deportes",ESPN
+https://iptv-org.github.io/channels/us/ESPNLatin
